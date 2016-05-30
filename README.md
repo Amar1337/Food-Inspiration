@@ -1,5 +1,5 @@
 # Food-Inspiration
-######Geen idee wat je wilt eten? Geen idee wat je allemaal nodig hebt? De applicatie biedt je door middel van afbeeldingen eten aan, die je dan kan like of disliken. Als je het gerecht liked dan wordt het opgeslagen in je "contactenpagina", hierna kan je kijken waaruit het gerecht bestaat.
+######Geen idee wat je wilt eten? Geen idee wat je allemaal nodig hebt? De Food Inspiration applicatie biedt je door middel van afbeeldingen eten aan, die je dan kan liken of disliken. Als je het gerecht liked dan wordt het opgeslagen in je "contactenpagina", hierna kan je kijken waaruit het gerecht bestaat.
 
 #### What problem will be solved for the user?
 Het idee is ontstaan nadat ikzelf (als student) in de supermarkt stond en het enorm vervelend vond dat ik geen idee had wat ik nou voor eten moest maken. Ik wilde een app maken die jou eten aanbiedt en hierdoor jouw probleem verdwijnt. Het probleem van constant de keuze moeten maken van wat je nou precies moet eten elke ochtend/middag/avond.
