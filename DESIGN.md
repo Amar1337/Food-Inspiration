@@ -41,9 +41,19 @@ De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt
 
 Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
-#####- a list of APIs and frameworks or plugins that you will be using to provide functionality in your app
+#####- A list of APIs and frameworks or plugins that you will be using to provide functionality in your app
+- BigOven API
+- Google Calender plugin
+- SQLite
 
-#####- a list of data sources if you will get data from an external source
+#####- A list of data sources if you will get data from an external source
+- BigOven Datasource website
 
-#####- a list of database tables and fields (and their types) if you will use a database
+#####- A list of database tables and fields (and their types) if you will use a database
+- user_id
+- E-mail
+- ID
+- Password
+-
+- 
 
