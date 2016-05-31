@@ -54,6 +54,3 @@ Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg 
 - E-mail
 - ID
 - Password
--
-- 
-
