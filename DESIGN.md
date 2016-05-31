@@ -22,10 +22,23 @@ De app zal bestaan uit de volgende activiteiten:
 **Registratie pagina** gemaakt voor nieuwe gebruikers zonder inloggegevens. De gegevens worden dan opgeslagen in de Sql databasa.
 
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/DecisionPage.png)
+
+**Decision pagina** is de pagina waar de gebruiker de afbeeldingen voor zich krijgt en hierop zijn/haar keuze kan maken. Dus een like of een dislike. Als de afbeelding geliked wordt dan zal het gerecht worden opgeslagen in de **Cookbook**.
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/CookbookPage.png)
+
+De **cookbook** is een pagina waar alle "matches" van de gebruiker geplaatst zijn, een soort van gallerij van matches. Als de gebruiker op een afbeelding drukt dan wordt hij/zij doorgeschakeld naar het recept van de afbeelding.
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/MealPage.png)
+
+Eenmaal op de **MealPage** kan de gebruiker zien waaruit het gerecht bestaat. Als het de gebruiker bevalt, dan zal hij/zij de mogelijk hebben om door te gaan naar de **How To** pagina.
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/HowToMakePage.png)
+
+De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt moet worden. (Met daaronder een button om het gerecht op te slaan in zijn/haar persoonlijke agenda). 
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/AgendaPage.png)
+Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
 #####- a list of APIs and frameworks or plugins that you will be using to provide functionality in your app
 
