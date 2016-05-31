@@ -12,9 +12,15 @@ De app zal bestaan uit de volgende activiteiten:
 - How to make
 - (Agenda)
  
-#####- advanced sketches of your UI that clearly explain which features are connected to which underlying part of the code
-![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/LoginPage.png)
+#####- Advanced sketches of your UI that clearly explain which features are connected to which underlying part of the code
+![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/LoginPage.png).
+
+**Login pagina** gemaakt zodat de gegevens van de gebruiker opgeslagen worden en opgehaald worden. Hierdoor is het mogelijk voor de gebruiker om constant zijn/haar gegevens weer terug te krijgen als de app opgestart wordt.
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/RegisterPage.png)
+
+**Registratie pagina** gemaakt voor nieuwe gebruikers zonder inloggegevens. De gegevens worden dan opgeslagen in de Sql databasa.
+
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/DecisionPage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/CookbookPage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/MealPage.png)
