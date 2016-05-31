@@ -38,6 +38,7 @@ Eenmaal op de **MealPage** kan de gebruiker zien waaruit het gerecht bestaat. Al
 De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt moet worden. (Met daaronder een button om het gerecht op te slaan in zijn/haar persoonlijke agenda). 
 
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/AgendaPage.png)
+
 Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
 #####- a list of APIs and frameworks or plugins that you will be using to provide functionality in your app
