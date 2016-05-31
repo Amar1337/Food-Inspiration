@@ -17,8 +17,8 @@ De app zal bestaan uit de volgende activiteiten:
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/RegisterPage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/DecisionPage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/CookbookPage.png)
-![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/HowToMakePage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/MealPage.png)
+![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/HowToMakePage.png)
 ![alt text](https://github.com/Amar1337/Food-Inspiration/blob/master/doc%20folder/AgendaPage.png)
 
 #####- a list of APIs and frameworks or plugins that you will be using to provide functionality in your app
