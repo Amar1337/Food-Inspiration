@@ -1,4 +1,4 @@
-Some parts that you may describe here:
+#Design Document
 
 ## Diagram of modules or classes that I've decided to implement, in appropriate detail
 ![uml](https://cloud.githubusercontent.com/assets/18394877/15707599/d3c596c6-27f9-11e6-9632-bc17f25e82b1.PNG)
