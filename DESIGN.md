@@ -75,7 +75,8 @@ SQLite gaat gebruikt worden om opgeslagen gegevens te ontsluiten, bewaken en beh
 Android Software Development Kit gebruikt voor het maken van de applicatie. (Android Studio)
 
 ## A list of data sources
-- BigOven Datasource website. BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. De data hiervan wordt op een overzichtelijke wijze in de applicatie verwerkt.
+**BigOven Datasource website** 
+BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. De data hiervan wordt op een overzichtelijke wijze in de applicatie verwerkt.
 
 ## A list of database tables and fields (and their types) for the database
 - user_id
