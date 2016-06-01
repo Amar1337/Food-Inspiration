@@ -8,9 +8,9 @@ De app zal bestaan uit de volgende activiteiten:
 - Login
 - Register
 - Decision
-- Meal
+- Meal (ingrediënten)
+- Meal2 (how to)
 - Cookbook
-- How to make
 - (Agenda)
  
 ## Advanced sketches of the UI that explains which features are connected to which underlying part.
@@ -28,19 +28,19 @@ De app zal bestaan uit de volgende activiteiten:
 
 ![4cookbookpage](https://cloud.githubusercontent.com/assets/18394877/15707052/e5a6343e-27f6-11e6-909a-5c294f8c29a5.png)
 
-De **cookbook** is een pagina waar alle "matches" van de gebruiker geplaatst zijn, een soort van gallerij van matches. Als de gebruiker op een afbeelding drukt dan wordt hij/zij doorgeschakeld naar het recept van de afbeelding.
+De **cookbook** is een pagina waar alle "matches" van de gebruiker geplaatst zijn, een soort gallerij van matches. Als de gebruiker op een afbeelding drukt dan wordt hij/zij doorgeschakeld naar het recept van de afbeelding.
 
 ![5mealpage](https://cloud.githubusercontent.com/assets/18394877/15707046/e58e423e-27f6-11e6-846f-04025cf1ced7.png)
 
-Eenmaal op de **MealPage** kan de gebruiker zien waaruit het gerecht bestaat. Als het de gebruiker bevalt, dan zal hij/zij de mogelijk hebben om door te gaan naar de **How To** pagina.
+Eenmaal op de **MealPage** (1/2) kan de gebruiker zien waaruit het gerecht bestaat, oftewel de ingrediënten. Daarnaast heeft de gebruiker de mogelijkheid om op **MealPage2** (2/2) het recept in te zien en erachter te komen hoe het gerecht nou precies gemaakt moet worden.
 
 ![6mealpage2](https://cloud.githubusercontent.com/assets/18394877/15707050/e58f67a4-27f6-11e6-8815-06029c04553e.png)
 
-De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt moet worden. (Met daaronder een button om het gerecht op te slaan in zijn/haar persoonlijke agenda). 
+De gebruiker kan op **MealPage2** overzichtelijk zien hoe het gerecht bereidt moet worden. (Met daaronder een button om het gerecht op te slaan in zijn/haar persoonlijke agenda) en natuurlijk een button om weer naar pagina 1/2 te gaan. 
 
 ![7agendapage](https://cloud.githubusercontent.com/assets/18394877/15707047/e58e783a-27f6-11e6-9c56-a1cda8d11fd9.png)
 
-Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
+Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken. De mogelijkheid om bepaalde recepten toe te voegen aan je persoonlijke agenda, zodat je het gerecht in je werkweek of weekend kan inplannen.
 
 ## List of APIs and frameworks or plugins that I will be using to provide functionality in my app
 #### BigOven API
