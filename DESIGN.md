@@ -19,7 +19,7 @@ De app zal bestaan uit de volgende activiteiten:
 
 ![2registerpage](https://cloud.githubusercontent.com/assets/18394877/15706013/da8bdf86-27f1-11e6-8670-2929c0ceb944.png)
 
-**Registratie pagina** gemaakt voor nieuwe gebruikers zonder inloggegevens. De gegevens worden dan opgeslagen in de Sql databasa.
+**Registratie pagina** gemaakt voor nieuwe gebruikers zonder inloggegevens. De gegevens worden dan opgeslagen in de Sql database.
 
 ![3decisionpage](https://cloud.githubusercontent.com/assets/18394877/15706015/da909eb8-27f1-11e6-8ad8-f4c8dbad9a2a.png)
 
