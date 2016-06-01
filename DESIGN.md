@@ -1,6 +1,6 @@
 Some parts that you may describe here:
 
-##- a diagram of modules or classes that I've decided to implement, in appropriate detail
+## Diagram of modules or classes that I've decided to implement, in appropriate detail
 ![uml](https://cloud.githubusercontent.com/assets/18394877/15707599/d3c596c6-27f9-11e6-9632-bc17f25e82b1.PNG)
 
 Zoals op het bovenstaande plaatje te zien is, zal ik beginnen met ongeveer 7 activiteiten. De 7e activiteit de agenda, zal geïmplementeerd worden als ik voldoende tijd over heb nadat de eerste 6 activiteiten perfect werken.
@@ -13,7 +13,7 @@ De app zal bestaan uit de volgende activiteiten:
 - How to make
 - (Agenda)
  
-##- Advanced sketches of your UI that clearly explain which features are connected to which underlying part of the code
+##- Advanced sketches of the UI that explains which features are connected to which underlying part.
 ![1loginpage](https://cloud.githubusercontent.com/assets/18394877/15707048/e58f4cc4-27f6-11e6-86fd-cf194674f690.png)
 
 **Login pagina** gemaakt zodat de gegevens van de gebruiker opgeslagen worden en opgehaald worden. Hierdoor is het mogelijk voor de gebruiker om constant zijn/haar gegevens weer terug te krijgen als de app opgestart wordt.
@@ -42,7 +42,7 @@ De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt
 
 Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
-##- A list of APIs and frameworks or plugins that you will be using to provide functionality in your app
+##- List of APIs and frameworks or plugins that I will be using to provide functionality in my app
 #### BigOven API
 
 **Search**
@@ -68,14 +68,18 @@ Support JSON format in an easy to use REST-based API.
 ###- Google Calender API
 Ik zou ook graag de feature willen toevoegen om recepten (matches) toe te voegen aan je persoonlijke agenda. Zodat je kan inplannen wanneer je iets gaat maken. Ik zie dit als een stap in de goede richting om mensen het initiatief te laten nemen voor het bereiden van een relatief leuk en lekker gerecht. Hiervoor wil ik dus de Google Calendar API gebruiken (zie link: https://developers.google.com/google-apps/calendar/overview#apis_explorer)
 
-###- SQLite 
+###- SQLite (databasemanagement)
+SQLite gaat gebruikt worden om opgeslagen gegevens te ontsluiten, bewaken en beheren. Denk hierbij aan de inloggegevens van de gebruiker maar ook de opgeslagen "matches", dus de gerechten die in het kookboek staan. De gebruiker moet door kunnen gaan, waar hij/zij voor het laatst gebleven is.
+
 ###- Android SDK (voor de framework)
+Android Software Development Kit gebruikt voor het maken van de applicatie. (Android Studio)
 
-##- A list of data sources if you will get data from an external source
-- BigOven Datasource website. BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. 
+##- A list of data sources
+- BigOven Datasource website. BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. De data hiervan wordt op een overzichtelijke wijze in de applicatie verwerkt.
 
-##- A list of database tables and fields (and their types) if you will use a database
+##- A list of database tables and fields (and their types) for the database
 - user_id
 - E-mail
 - ID
 - Password
+- Matches (images)
