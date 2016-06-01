@@ -65,7 +65,9 @@ Fetch and update grocery list information in the cloud.
 
 Support JSON format in an easy to use REST-based API.
 
-###- Google Calender plugin
+###- Google Calender API
+Ik zou ook graag de feature willen toevoegen om recepten (matches) toe te voegen aan je persoonlijke agenda. Zodat je kan inplannen wanneer je iets gaat maken. Ik zie dit als een stap in de goede richting om mensen het initiatief te laten nemen voor het bereiden van een relatief leuk en lekker gerecht. Hiervoor wil ik dus de Google Calendar API gebruiken (zie link: https://developers.google.com/google-apps/calendar/overview#apis_explorer)
+
 ###- SQLite 
 ###- Android SDK (voor de framework)
 
