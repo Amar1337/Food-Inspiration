@@ -13,7 +13,7 @@ De app zal bestaan uit de volgende activiteiten:
 - How to make
 - (Agenda)
  
-##- Advanced sketches of the UI that explains which features are connected to which underlying part.
+## Advanced sketches of the UI that explains which features are connected to which underlying part.
 ![1loginpage](https://cloud.githubusercontent.com/assets/18394877/15707048/e58f4cc4-27f6-11e6-86fd-cf194674f690.png)
 
 **Login pagina** gemaakt zodat de gegevens van de gebruiker opgeslagen worden en opgehaald worden. Hierdoor is het mogelijk voor de gebruiker om constant zijn/haar gegevens weer terug te krijgen als de app opgestart wordt.
@@ -42,7 +42,7 @@ De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt
 
 Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
-##- List of APIs and frameworks or plugins that I will be using to provide functionality in my app
+## List of APIs and frameworks or plugins that I will be using to provide functionality in my app
 #### BigOven API
 
 **Search**
@@ -74,10 +74,10 @@ SQLite gaat gebruikt worden om opgeslagen gegevens te ontsluiten, bewaken en beh
 ###- Android SDK (voor de framework)
 Android Software Development Kit gebruikt voor het maken van de applicatie. (Android Studio)
 
-##- A list of data sources
+## A list of data sources
 - BigOven Datasource website. BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. De data hiervan wordt op een overzichtelijke wijze in de applicatie verwerkt.
 
-##- A list of database tables and fields (and their types) for the database
+## A list of database tables and fields (and their types) for the database
 - user_id
 - E-mail
 - ID
