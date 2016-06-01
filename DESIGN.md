@@ -1,7 +1,8 @@
 Some parts that you may describe here:
 
 #####- a diagram of modules or classes that I've decided to implement, in appropriate detail
-![uml](https://cloud.githubusercontent.com/assets/18394877/15673243/a5411cfe-2735-11e6-90c7-7e456310976e.PNG)
+![uml](https://cloud.githubusercontent.com/assets/18394877/15707599/d3c596c6-27f9-11e6-9632-bc17f25e82b1.PNG)
+
 Zoals op het bovenstaande plaatje te zien is, zal ik beginnen met ongeveer 7 activiteiten. De 7e activiteit de agenda, zal geïmplementeerd worden als ik voldoende tijd over heb nadat de eerste 6 activiteiten perfect werken.
 De app zal bestaan uit de volgende activiteiten:
 - Login
