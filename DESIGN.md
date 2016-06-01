@@ -43,20 +43,26 @@ De gebruiker kan op de **HowToMake** overzichtelijk zien hoe het gerecht bereidt
 Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg tijd is om de bovenstaande features perfect uit te werken.
 
 #####- A list of APIs and frameworks or plugins that you will be using to provide functionality in your app
-- BigOven API
+######BigOven API
+
 **Search**
+
 Search over 350,000+ recipes by ingredient, Title and more.
 
 **Display Recipes and Photos**
+
 Display recipes in detail, including photos and ratings, on your website or mobile application.
 
 **Recipe Reviews**
+
 Get recipe reviews, and detailed ingredient information.
 
 **Grocery Lists**
+
 Fetch and update grocery list information in the cloud.
 
 **Recipes How you Want Them**
+
 Support JSON format in an easy to use REST-based API.
 
 - Google Calender plugin
