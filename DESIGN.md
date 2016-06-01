@@ -44,11 +44,27 @@ Dit is een feature die uiteindelijk geïmplementeerd zal worden, mits er genoeg 
 
 #####- A list of APIs and frameworks or plugins that you will be using to provide functionality in your app
 - BigOven API
+**Search**
+Search over 350,000+ recipes by ingredient, Title and more.
+
+**Display Recipes and Photos**
+Display recipes in detail, including photos and ratings, on your website or mobile application.
+
+**Recipe Reviews**
+Get recipe reviews, and detailed ingredient information.
+
+**Grocery Lists**
+Fetch and update grocery list information in the cloud.
+
+**Recipes How you Want Them**
+Support JSON format in an easy to use REST-based API.
+
 - Google Calender plugin
-- SQLite
+- SQLite 
+- Android SDK (voor de framework)
 
 #####- A list of data sources if you will get data from an external source
-- BigOven Datasource website
+- BigOven Datasource website. BigOven zorgt ervoor dat ik genoeg data heb zoals recepten, afbeeldingen, ingrediënten. 
 
 #####- A list of database tables and fields (and their types) if you will use a database
 - user_id
