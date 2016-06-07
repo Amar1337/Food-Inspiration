@@ -23,3 +23,20 @@
 -	MealActivity en CookbookActivity omdraaien
 -	Ingrediënten en recept op 1 pagina, wellicht de mogelijkheid om te kunnen swipen.
 -	Kijken hoe ik de opgeslagen “likes” ga opslaan.
+
+# day 4
+- Prototype maken
+- Login en Registreren (+ agenda) nog weggelaten
+- StartActivity (eerste pagina) geadd waar de gebruiker 2 keuzes heeft, namelijk door naar de MainActivity of naar zijn/haar Cookbook
+- Toast geadd aan dislike en like button om de onClick te testen
+- Cookbook onClick intent naar Cookbook met de likes (matches)
+- Momenteel is de Cookbook hardcoded. Gridview van images werkt wel ook als het verschillende images zijn
+- Eenmaal geklikt op een image ga je naar de FullImage. Dit werkt ook bij andere Images (uit de drawable nog maar gaat een API worden)
+- Listview onder de Imageview (full image) met ingrediënten (ook hardcoded, zal ook met de BigOven API anders worden)
+- TODO; Recepten en ingrediënten proberen op 1 pagina te stoppen
+- TODO; De functie toevoegen om in de FullImageActivity te kunnen swipen, zodat je niet weer terug naar de Cookbook hoeft te gaan
+- TODO; Bij de MainActivity de mogelijkheid om te kunnen swipen van gerecht
+- TODO; text toevoegen boven de Imageview op de FullImageActivity
+
+# day 5 (presentatie)
+- 
